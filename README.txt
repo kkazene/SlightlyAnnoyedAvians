@@ -1,5 +1,5 @@
 # Slightly Annoyed Avians
-
+By Tuuli Sarantola, 218517
 
 Angry birds clone game for VR and AI course.
 

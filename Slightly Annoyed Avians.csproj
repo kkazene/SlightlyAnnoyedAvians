@@ -286,6 +286,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BallScript.cs" />
+    <Compile Include="Assets\Scripts\CoinScript.cs" />
     <Compile Include="Assets\Scripts\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\ProjectileScript.cs" />
   </ItemGroup>
